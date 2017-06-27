@@ -1,2 +1,3 @@
 # hello-world
 Testing the hello world as a first activity...
+Pencilling in a few more notes.
